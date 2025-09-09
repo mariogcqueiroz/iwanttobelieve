@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584576098621",
+    "project_id": "iwanttobelieve-c55b6",
+    "storage_bucket": "iwanttobelieve-c55b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584576098621:android:d49529abb04334a9296554",
+        "android_client_info": {
+          "package_name": "com.example.iwanttobelieve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03mifh8YjemA8zsXJePciG4sK_YcR0kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
